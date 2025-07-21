@@ -3,7 +3,7 @@
 I'm an "_under construction_" self taught programmer and developer interested in developing apps, websites, and games (I'm yet to find what I really want to work on most, so I'm exploring all fields).
   I'm actually working towards studying to go into biomedicine as the gaming industry is very unstable at the moment, but it is something I would LOVE to do in the future!
 
-I'm currently learning the basics of HTML with freeCodeCamp, particpating in their (under development) full-stack development course. Then I will see where I go, I just want to get the fundamentals first :D
+I'm currently learning the basics of CSS with freeCodeCamp, particpating in their (under development) full-stack development course. Then I will see where I go, I just want to get the fundamentals first :D
 
 I'm free for any advice you have about learning to code and program and your workflow.
 
